@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a software engineering student at San Jose State University.<br>I have experience in lots of languages mainly Java, JavaScript, and Python.<br>Most skilled in web development.<br>Currently trying to learn more about embedded systems and ML. 
+I'm a software engineering student at San Jose State University.<br>I am the most skilled in web development.<br>Currently trying to learn more about embedded systems and ML. <br> I'm currently looking for a summer internship.
 
 
 ## 🌐 Socials:
