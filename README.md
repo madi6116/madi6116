@@ -1,9 +1,9 @@
 # 💫 About Me
 Software Engineering student at San José State University focused on building clean, scalable web applications.
 
-- Strongest in: Full-stack web development
-- Currently learning: Cybersecurity & Embedded Systems
-- Seeking: Summer Software Engineering Internship
+- 💻 Strongest in: Full-stack web development
+- 🔐 Currently learning: Cybersecurity & Embedded Systems
+- 🚀 Seeking: Summer Software Engineering Internship
 
 ---
 
