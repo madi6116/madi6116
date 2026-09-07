@@ -41,16 +41,6 @@ Software Engineering student at San José State University focused on building c
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=madi6116&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=madi6116&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=madi6116&layout=compact&theme=tokyonight&hide_border=true)
----
-
 ## 🚀 Featured Focus
 - Building full-stack applications with React + Node
 - Exploring security fundamentals and system-level programming
